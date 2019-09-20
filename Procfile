@@ -1,0 +1,1 @@
+web: gunicorn SCG_Controle_Gastos.wsgi
